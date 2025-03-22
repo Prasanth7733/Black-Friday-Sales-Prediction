@@ -52,7 +52,7 @@ We implemented multiple supervised machine learning models to predict purchase a
 The model performance was evaluated using **Root Mean Square Error (RMSE)**, which measures the difference between predicted and actual values. RMSE provides a reliable estimate of model accuracy.
 
 ## Conclusion
-Among the tested models, **XGBoost Regressor** outperformed others with the best RMSE score of **2879**, making it the most effective model for predicting Black Friday purchase amounts. This project showcases the potential of machine learning in retail analytics, aiding businesses in strategic decision-making for optimal pricing strategies.
+Among the tested models, **XGBoost Regressor** outperformed others with the best RMSE score of **2912**, making it the most effective model for predicting Black Friday purchase amounts. This project showcases the potential of machine learning in retail analytics, aiding businesses in strategic decision-making for optimal pricing strategies.
 
 ---
 ### 🔹 Author: Prasanth Babu  
